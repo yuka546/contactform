@@ -3,7 +3,7 @@
   text-align: center;
   font-size: 40px;
   font-weight: bold;
-  padding: 50px;
+  padding: 100px 50px 50px 50px;
 }
 
 .internet-icon{
@@ -28,8 +28,7 @@ a{
 }
 
 .all{
-  border-left: 30px solid rgba(255, 0, 0, 0.5);
-  padding-left: 10px;
-  border-right: 30px solid rgba(255, 0, 0, 0.5);
-  padding-right: 10px;
+  background-image: url(https://sozai-good.com/download?id=4282&type=1&subnumber=0&extention=jpg);
+  background-size: cover;
+  height: 600px;
 }
