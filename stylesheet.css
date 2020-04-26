@@ -28,9 +28,8 @@ a{
 }
 
 .all{
-   border-right: 10px solid rgba(255, 0, 0, 0.5);
-  border-left: 10px solid rgba(255, 0, 0, 0.5);
-  width: 100%;
-  max-width: 200px;
-  height: 1200px;
+  border-left: 30px solid rgba(255, 0, 0, 0.5);
+  padding-left: 10px;
+  border-right: 30px solid rgba(255, 0, 0, 0.5);
+  padding-right: 10px;
 }
