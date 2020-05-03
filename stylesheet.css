@@ -6,6 +6,7 @@
   padding: 140px 50px 50px 50px;
 }
 
+
 .internet-icon{
   font-size: 30px;
   text-align: center;
@@ -16,6 +17,24 @@
 a{
   text-decoration: none;
   color: black;
+  transition: 0.5s;
+}
+
+a:hover{
+  cursor: pointer;
+  transform: translateY(-5px);
+}
+
+.twitter:hover{
+  color: blue;
+}
+
+.insta:hover{
+  color: red;
+}
+
+.facebook:hover{
+  color: navy;
 }
 
 .contact-form{
@@ -25,10 +44,20 @@ a{
   font-family: fantasy;
   letter-spacing: 5px;
   padding: 30px;
+  transition: 0.5s;
+}
+
+.contact-form:hover{
+  transform: scale(1.2);
+  cursor: pointer;
 }
 
 .all{
   background-image: url(https://sozai-good.com/download?id=4282&type=1&subnumber=0&extention=jpg);
   background-size: cover;
   height: 600px;
+}
+
+.clear{
+  clear: left;
 }
