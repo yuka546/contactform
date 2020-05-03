@@ -55,7 +55,7 @@ a:hover{
 .all{
   background-image: url(https://sozai-good.com/download?id=4282&type=1&subnumber=0&extention=jpg);
   background-size: cover;
-  height: 600px;
+  height: 100vh;
 }
 
 .clear{
