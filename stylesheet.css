@@ -61,3 +61,18 @@ a:hover{
 .clear{
   clear: left;
 }
+
+@media(max-width: 670px){
+  .logo h1{
+    font-size: 80px;
+  }
+
+  .internet-icon{
+    font-size: 60px;
+  }
+
+  .contact-form{
+    font-size: 40px;
+  }
+}
+
